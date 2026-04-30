@@ -2,7 +2,7 @@
 
 A smart navigation agent that helps passengers find the best way to travel between metro stations using AI search algorithms. This project visualizes how different algorithms (BFS, DFS, and Dijkstra) explore a complex graph of metro stations with multiple lines and closed cycles (loops).
 
-![Project Preview](https://via.placeholder.com/800x450.png?text=Metro+Route+Optimizer+Preview)
+![Project Preview](preview.png)
 
 ## ✨ Features
 
